@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "deviceName": "Some name",
+  "appPackage": "ru.netology.testing.uiautomator",
+  "appActivity": "ru.netology.testing.uiautomator.MainActivity"
+}
+
+
+
